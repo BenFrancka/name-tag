@@ -1,0 +1,40 @@
+main {
+   height: 300px; 
+   width: 500px;
+   box-sizing: border-box;
+   margin: 0 auto;
+   background-color: lightgray;
+   padding: 5px; 
+}
+.red-box {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 45px;
+    background-color: red;
+    color: white;
+    display: block;  
+    margin: 0 auto; 
+    border-radius: 3%;
+}
+.white-box {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 75px;
+    background-color: white;
+    display: block;   
+    margin: 0 auto;
+}
+.red-box-2 {
+    text-align: center;
+    background-color: red;
+    display: block;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 3%;
+}
+
+
+
+
+
